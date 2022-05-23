@@ -1,0 +1,26 @@
+Summary
+
+
+  you will learn about the internet and what is a network and what is the web
+  and World wide web "www" and the difference between Request/Response and
+  Frontend or Backend and what HTML/CSS/JS do and how the browser deal with them
+  and how to set up the Developer environment and what is the best code editor
+  (IDE) for you to help you writing your code.
+
+  what is MDN (Mozilla Developer Network) and introduction to HTML and some of
+  Elements such as paragraph and heading elements and why i can't use more than
+  one Heading tag in a single page.
+
+  List Elements
+
+  Ordered List , Unordered List and Nested List
+  Anchor tag and href hypertext refernce, how to add image to the
+  page and what is the alt attribute, Comments and how i can use it. 
+
+
+  Additional Useful Extensions for VS Code 
+  1- Live server 
+  Help you to  Launch a development local Server with live reload feature for static & dynamic pages.
+
+  2-Prettier 
+  Help you to format your code and make it readable and prettier :) 
